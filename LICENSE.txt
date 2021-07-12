@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [JULY 2021] [KALI-DESIGN by Henri-Michel LEOCADIE]
+Copyright (c) [JULY 2021 - NFT ISO] [KALI-DESIGN by Henri-Michel LEOCADIE]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
