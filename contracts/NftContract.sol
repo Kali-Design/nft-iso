@@ -13,7 +13,7 @@ import "@openzeppelin/contracts/utils/Strings.sol";
 contract NftContract is ERC721, ERC721URIStorage, ERC721Enumerable, AccessControl {
     using Counters for Counters.Counter;
     
-    struct NftIso {
+    struct NftContact {
         string title;
         string creator;
         address creatorAddress;
