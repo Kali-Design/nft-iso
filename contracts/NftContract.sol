@@ -27,7 +27,7 @@ contract NftContract is ERC721, ERC721URIStorage, ERC721Enumerable, AccessContro
 
     Counters.Counter private _tokenID; 
     mapping(bytes32 => uint256) private _nftID; 
-    mapping(uint256 => NftIso private _nft; 
+    mapping(uint256 => NftIso) private _nft; 
 
     event Created(string title, string creator_, address indexed creatorAddress, uint256 timestamp, bytes32 indexed nftHash,string content_, uint256 indexed currentId);
 
